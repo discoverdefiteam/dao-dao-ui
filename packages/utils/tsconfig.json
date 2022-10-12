@@ -1,0 +1,5 @@
+{
+  "extends": "@dao-dao/tsconfig/base.json",
+  "include": ["**/*.ts", "**/*.tsx"],
+  "exclude": ["node_modules"]
+}
